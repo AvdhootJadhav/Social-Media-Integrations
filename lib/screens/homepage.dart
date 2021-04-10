@@ -12,7 +12,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.white,
       body:Column(
-          //mainAxisAlignment: MainAxisAlignment.center,
+          
           children: [
             Padding(
               padding: const EdgeInsets.only(top:50.0),
