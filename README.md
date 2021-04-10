@@ -1,10 +1,16 @@
-# task
+# Social Media Integrations in Flutter App
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app demonstrates social media sign in such as Google and Facebook SignIn in Flutter app.
+
+# Steps:
+- First fork the project so that you can run this on your local machine 
+- Clone the project into your machine using `git clone repo-link`
+- Then open the project in editor and install the dependency using `flutter pub get` in terminal
+- Then run the project
 
 A few resources to get you started if this is your first Flutter project:
 
